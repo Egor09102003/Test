@@ -1,0 +1,16 @@
+{
+  "name": "itribe/typo3-monitor",
+  "description": "TYPO3 monitor application",
+  "minimum-stability": "dev",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Anton Danilov",
+      "email": "anton@i-tribe.de"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*",
+    "yiisoft/yii2-bootstrap": "*"
+  }
+}

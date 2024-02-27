@@ -1,0 +1,6 @@
+Options +FollowSymlinks -Indexes -MultiViews
+
+RewriteEngine on
+RewriteBase /
+
+RewriteRule (.*)$ /web/$1 [L,NC]
